@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    align-content: center;
+
+}
+
+.campoResposta {
+    margin: 10px;
+    height: 20px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+}
